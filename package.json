@@ -1,0 +1,13 @@
+{
+  "name": "download-speed",
+  "version": "1.0.0",
+  "description": "Консольный скрипт: 10 последовательных запросов к URL, среднее время, объём и скорость скачивания",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
